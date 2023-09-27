@@ -10,4 +10,8 @@ package ejerciciogit2;
  */
 public class Mamifero {
     
+    private boolean placentario;
+    private int mesesGestacion;
+    private String familia;
+    
 }
