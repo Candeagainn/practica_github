@@ -10,4 +10,7 @@ package ejerciciogit2;
  */
 public class Marrano extends PezuñaUngulada {
     
+    private int pesoKilos;
+    private boolean muerde;
+    
 }

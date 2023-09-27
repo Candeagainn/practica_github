@@ -10,4 +10,7 @@ package ejerciciogit2;
  */
 public class PezuñaUngulada extends Mamifero {
     
+    private boolean domestico;
+    
+    
 }
